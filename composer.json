@@ -21,6 +21,6 @@
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
 	},
 	"require-dev": {
-		"codeception/codeception": "^2.5"
+		"codeception/codeception": "^3.1"
 	}
 }
